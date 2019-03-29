@@ -1,0 +1,1002 @@
+
+#Namespace	Article	Revisions
+4	Wikipedia:Administrator intervention against vandalism	1510480
+4	Wikipedia:Administrators' noticeboard/Incidents	1076086
+2	User:Cyde/List of candidates for speedy deletion/Subpage	936504
+4	Wikipedia:Sandbox	709295
+4	Wikipedia:Requests for page protection	536431
+4	Wikipedia:Reference desk/Science	465807
+4	Wikipedia:Help desk	409333
+4	Wikipedia:WikiProject Spam/LinkReports	408658
+4	Wikipedia:Usernames for administrator attention	397092
+4	Wikipedia:Reference desk/Humanities	375723
+11	Template talk:Did you know	359214
+4	Wikipedia:Sandbox/Archive	326362
+4	Wikipedia:Administrators' noticeboard	322361
+4	Wikipedia:Reference desk/Miscellaneous	319927
+2	User:DeltaQuad/UAA/Wait	274899
+2	User:DeltaQuad/UAA/Time	256189
+4	Wikipedia:In the news/Candidates	253860
+4	Wikipedia:Administrator intervention against vandalism/TB2	227025
+4	Wikipedia:Usernames for administrator attention/Bot	221759
+2	User:Cyde/List of current proposed deletions	217493
+4	Wikipedia:Reference desk/Language	213630
+2	User:Ops Monitor (WMF)/sandbox	207029
+2	User:AvicBot/speedy	203237
+4	Wikipedia:Administrators' noticeboard/Edit warring	193935
+4	Wikipedia:Reference desk/Computing	192099
+4	Wikipedia:Open proxy detection	190472
+2	User:West.andrew.g/Dead links	189002
+4	Wikipedia:Village pump (technical)	178737
+4	Wikipedia:Teahouse	162707
+3	User talk:Jimbo Wales	151434
+4	Wikipedia:Good article nominations	150136
+2	User:Cyde/List of requests for unblock	146874
+4	Wikipedia:Introduction	145720
+1	Talk:Main Page	143539
+4	Wikipedia:Biographies of living persons/Noticeboard	138459
+4	Wikipedia:Changing username/Simple	137670
+4	Wikipedia:Reliable sources/Noticeboard	135063
+2	User:AnomieBOT/SPERTable	133652
+4	Wikipedia:Sockpuppet investigations/Cases/Overview	132687
+4	Wikipedia:Village pump (policy)	124303
+4	Wikipedia:Tutorial/Editing/sandbox	122706
+4	Wikipedia:Village pump (proposals)	118697
+4	Wikipedia:Reference desk/Mathematics	117551
+4	Wikipedia:Requested moves/Current discussions	112154
+4	Wikipedia:Community portal/Opentask	109858
+4	Wikipedia:Requested moves/Current discussions (alt)	107026
+4	Wikipedia:Dashboard/Requested moves	102370
+4	Wikipedia:Articles for creation/Redirects	99653
+4	Wikipedia:Reference desk/Entertainment	95704
+4	Wikipedia:Did you know/DYK hook count	94119
+4	Wikipedia:Arbitration/Requests/Enforcement	90468
+4	Wikipedia:Categories for discussion/Speedy	86873
+4	Wikipedia:Main Page/Errors	86653
+2	User:Cyberbot I/Requests for unblock report	86191
+5	Wikipedia talk:Did you know	85641
+5	Wikipedia talk:WikiProject Football	82463
+2	User:Cyberpower678/RfX Report	78662
+2	User:VeblenBot/PERtable	78179
+2	User:COIBot/LinkReports	77998
+10	Template:AFC statistics	76226
+2	User:Wilhelmina Will/sandbox	75959
+4	Wikipedia:Requested moves	75733
+2	User:DeltaQuad/SPI case list	75537
+5	Wikipedia talk:Requests for adminship	75359
+5	Wikipedia talk:Manual of Style	74856
+2	User:JaGa/Short leaderboard	73120
+4	Wikipedia:Requests for undeletion	72584
+4	Wikipedia:Suspected copyright violations	71985
+2	User:Cyde/List of candidates for speedy deletion	70786
+4	Wikipedia:Pages needing translation into English	70513
+2	User:JamesR/AdminStats	70110
+3	User talk:Drmies	66668
+2	User:B-bot/Event log	65995
+10	Template:Cratstats	65804
+5	Wikipedia talk:WikiProject Video games	65634
+4	Wikipedia:Dispute resolution noticeboard	63889
+2	User:DatBot/pendingbacklog	63839
+4	Wikipedia:Articles for deletion/Old	62135
+4	Wikipedia:Articles for creation/recent	60791
+5	Wikipedia talk:WikiProject Medicine	59955
+4	Wikipedia:Conflict of interest/Noticeboard	58794
+10	Template:Did you know/Preparation area 1	58506
+4	Wikipedia:Media copyright questions	56494
+4	Wikipedia:Arbitration/Requests	56233
+4	Wikipedia:Dashboard/Help noticeboards	56099
+5	Wikipedia talk:Reference desk	56000
+5	Wikipedia talk:WikiProject Military history	55998
+4	Wikipedia:Categories for discussion/Working	55787
+4	Wikipedia:Dashboard/Administrative noticeboards	55547
+4	Wikipedia:Toolserver/status	54127
+4	Wikipedia:Requested moves/Current discussions (table)	51242
+2	User:Cyde/List of requests for help	50689
+0	List of WWE personnel	50420
+4	Wikipedia:Requested moves/Technical requests	49482
+4	Wikipedia:WikiProject Articles for creation/Help desk	48918
+4	Wikipedia:Village pump (miscellaneous)	48885
+2	User:VeblenBot/SPERtable	47427
+4	Wikipedia:Huggle/Whitelist	47250
+3	User talk:Eric Corbett	47052
+0	George W. Bush	46779
+2	User:Cyberpower678/Tally	46488
+1	Talk:Barack Obama	45925
+5	Wikipedia talk:Manual of Style/Dates and numbers	45877
+10	Template:NUMBEROF/data	45860
+5	Wikipedia talk:WikiProject Professional wrestling	45759
+4	Wikipedia:Miscellany for deletion	45665
+3	User talk:ImageTaggingBot/log	45263
+3	User talk:Dr. Blofeld	45019
+4	Wikipedia:Editor assistance/Requests	44856
+2	User:Tigerboy1966/sandbox13	44739
+4	Wikipedia:Wikiquette assistance	44401
+2	User:X!/RfX Report	44270
+3	User talk:DGG	44267
+5	Wikipedia talk:Verifiability	43784
+4	Wikipedia:BAG/Status	43451
+2	User:Jgjsmith006/sandbox	43110
+4	Wikipedia:Arbitration/Requests/Case	43072
+5	Wikipedia talk:Criteria for speedy deletion	42091
+10	Template:DRN case status	41662
+100	Portal:Current events/Sports	41630
+4	Wikipedia:Tutorial/Formatting/sandbox	41363
+4	Wikipedia:Fringe theories/Noticeboard	40602
+4	Wikipedia:Votes for deletion/archive May 2004	40259
+4	Wikipedia:Department of Fun/Word Association	39837
+0	United States	39230
+1	Talk:Donald Trump	38995
+2	User:Peter I. Vardy/sandbox-13	38323
+4	Wikipedia:Changing username/Usurpations	38198
+2	User:WQUlrich/sandbox	38005
+5	Wikipedia talk:Vital articles/Level/4	37444
+2	User:VeblenBot/C/Good article nominees	37432
+4	Wikipedia:Dashboard/Relisted AfD debates	37233
+4	Wikipedia:Dashboard/Editorial noticeboards	37192
+5	Wikipedia talk:WikiProject Mathematics	36833
+2	User:VeblenBot/C/Good article nominees awaiting review	36485
+1	Talk:Global warming	36302
+100	Portal:Current events/Sports/Sidebar	36296
+4	Wikipedia:Copyright problems	36283
+10	Template:In the news	35935
+4	Wikipedia:Neutral point of view/Noticeboard	35590
+4	Wikipedia:Bot requests	35469
+4	Wikipedia:Edit filter/False positives/Reports	35453
+4	Wikipedia:Files for upload	35247
+0	Wikipedia	35060
+3	User talk:OrphanBot	34682
+4	Wikipedia:Graphics Lab/Illustration workshop	34172
+3	User talk:SandyGeorgia	34046
+4	Wikipedia:Sandbox/Archive2	33902
+3	User talk:Oshwah	33872
+4	Wikipedia:Featured article candidates	33510
+5	Wikipedia talk:Featured article candidates	33431
+4	Wikipedia:Cleanup	33199
+5	Wikipedia talk:Non-free content	32688
+3	User talk:Moonriddengirl	32640
+4	Wikipedia:Featured picture candidates	32561
+2	User:Cyde/List of old proposed deletions	32339
+1	Talk:Intelligent design	32127
+4	Wikipedia:Sandbox/History	32066
+4	Wikipedia:WikiProject Resource Exchange/Resource Request	32057
+5	Wikipedia talk:WikiProject Film	31718
+4	Wikipedia:Dashboard/Village pump	31644
+2	User:VeblenBot/C/Good article nominees on review	31495
+3	User talk:Bishonen	31459
+118	Draft:Sandbox	31455
+3	User talk:Materialscientist	31372
+2	User:Tachs/Sandbox3	31015
+2	User:Peter I. Vardy/sandbox	30367
+0	Michael Jackson	30223
+4	Wikipedia:Version 1.0 Editorial Team/Biography (military) articles by quality log	30136
+0	Jesus	30128
+4	Wikipedia:Templates for discussion	30093
+5	Wikipedia talk:No original research	30069
+2	User:Amalthea/RfX/Tally	29938
+1	Talk:Jesus	29812
+5	Wikipedia talk:WikiProject Spam	29784
+4	Wikipedia:Today's featured article/requests	29604
+1	Talk:United States	29339
+3	User talk:Rich Farmbrough	29145
+4	Wikipedia:Deletion review	28488
+4	Wikipedia:Village pump archive 2004-09-26	28485
+1	Talk:Sarah Palin	28429
+5	Wikipedia talk:WikiProject Anime and manga	28421
+10	Template:Did you know	28392
+2	User:Jjaey/sandbox	27834
+4	Wikipedia:Dashboard/Requests for comment	27759
+0	Catholic Church	27710
+0	Donald Trump	27706
+0	List of programs broadcast by ABS-CBN	27361
+4	Wikipedia:Requests for adminship	27341
+5	Wikipedia talk:WikiProject Birds	27159
+0	Barack Obama	27146
+3	User talk:Diannaa	27088
+4	Wikipedia:Requests for investigation	27079
+2	User:ClueBot/PossibleVandalism	26975
+1	Talk:Gamergate controversy	26890
+5	Wikipedia talk:In the news	26816
+4	Wikipedia:Bureaucrats' noticeboard	26355
+3	User talk:Bbb23	26337
+0	Adolf Hitler	26283
+4	Wikipedia:Main Page/Protection	26101
+4	Wikipedia:WikiProject Deletion sorting/Bands and musicians	26049
+5	Wikipedia talk:Article titles	26039
+4	Wikipedia:Files for discussion	25915
+4	Wikipedia:Arbitration/Requests/Clarification and Amendment	25851
+4	Wikipedia:Motto of the day/Nominations/In review	25786
+4	Wikipedia:Requests for permissions/Rollback	25553
+3	User talk:Doug Weller	25524
+5	Wikipedia talk:WikiProject Ice Hockey	25409
+1	Talk:Homeopathy	25319
+5	Wikipedia talk:Biographies of living persons	25248
+0	World War II	25239
+4	Wikipedia:New contributors' help page	25151
+0	Roger Federer	25093
+5	Wikipedia talk:Notability	25059
+0	The Undertaker	24938
+0	Britney Spears	24847
+0	ATP Tour records	24812
+1	Talk:Gaza War (2008–09)	24810
+2	User:Avicennasis/reports/uaa/report/by5min	24680
+0	India	24562
+4	Wikipedia:Graphics Lab/Photography workshop	24359
+3	User talk:Crisco 1492	24354
+2	User:DumbBOT/ProdSummary	24258
+2	User:EranBot/Copyright/rc	24174
+0	Deaths in 2018	24160
+2	User:Tachs/Sandbox5	24075
+4	Wikipedia:Requested articles/Culture and fine arts	23958
+4	Wikipedia:Requests for page protection/Rolling archive	23905
+1	Talk:September 11 attacks	23788
+5	Wikipedia talk:Noticeboard for India-related topics	23727
+0	List of programs broadcast by GMA Network	23547
+0	The Beatles	23543
+4	Wikipedia:Articles for deletion/Old/Open AfDs	23428
+4	Wikipedia:WikiProject Guild of Copy Editors/Requests	23382
+2	User:AnomieBOT/PERTable	23360
+1	Talk:Evolution	23324
+3	User talk:Doc James	23293
+0	United Kingdom	23292
+4	Wikipedia:Good articles	23223
+4	Wikipedia:WikiProject Deletion sorting/People	23222
+10	Template:Vandalism information	23214
+2	User:Wilhelmina Will/Sandbox 3	23089
+2	User:Tangotango/RfA Analysis/Report	23033
+4	Wikipedia:Bureaucrats' noticeboard/RfA Report	22975
+0	Kane (wrestler)	22961
+1	Talk:George W. Bush	22956
+4	Wikipedia:Redirects for discussion	22955
+3	User talk:JamesBWatson	22937
+5	Wikipedia talk:WikiProject Cricket	22862
+3	User talk:HJ Mitchell	22857
+3	User talk:EdJohnston	22789
+0	List of Ben 10 aliens	22766
+1	Talk:Race and intelligence	22701
+1	Talk:Climatic Research Unit email controversy	22670
+1	Talk:Muhammad	22655
+5	Wikipedia talk:WikiProject Articles for creation	22633
+4	Wikipedia:WikiProject Deletion sorting/India	22555
+0	Deaths in 2013	22531
+3	User talk:Sandstein	22530
+10	Template:Did you know/Preparation area 2	22530
+0	List of Impact Wrestling personnel	22428
+0	Jehovah's Witnesses	22397
+5	Wikipedia talk:What Wikipedia is not	22354
+5	Wikipedia talk:Arbitration Committee/Noticeboard	22288
+1	Talk:Cities and towns during the Syrian Civil War	22255
+3	User talk:Iridescent	22243
+0	Wii	22177
+1	Talk:Prem Rawat	22120
+0	Real Madrid CF	22112
+2	User:Nightstallion/notes	22091
+3	User talk:Jimfbleak	22074
+2	User:East London Line/Sandbox	22057
+1	Talk:Circumcision	21975
+3	User talk:The Rambling Man	21962
+0	George Washington	21911
+4	Wikipedia:Requests for permissions/Confirmed	21883
+0	Deaths in 2017	21855
+3	User talk:NeilN	21649
+0	FC Barcelona	21629
+0	Global warming	21584
+0	European Union	21537
+1	Talk:Catholic Church	21520
+2	User:BobDylanFan1994/sandbox	21265
+4	Wikipedia:Non-free content review	21227
+0	Led Zeppelin	21084
+0	List of countries and dependencies by population	21082
+4	Wikipedia:Good articles/recent	21050
+5	Wikipedia talk:WikiProject Comics	20985
+1	Talk:India	20976
+5	Wikipedia talk:Good article nominations	20970
+0	New York City	20957
+0	Beyoncé	20945
+0	Deaths in 2009	20905
+2	User:Δ/Sandbox	20883
+0	Deaths in 2010	20858
+0	2006 Lebanon War	20800
+0	Canada	20794
+4	Wikipedia:Tutorial/Wikipedia links/sandbox	20717
+0	American Idol	20712
+4	Wikipedia:Requests for comment/User names	20577
+0	PlayStation 3	20574
+0	Doctor Who	20505
+0	Islam	20491
+4	Wikipedia:Historical archive/Sandbox	20464
+0	Newcastle United F.C.	20458
+4	Wikipedia:Australian Wikipedians' notice board	20450
+3	User talk:GoodDay	20349
+4	Wikipedia:Lists of protected pages	20300
+0	Muhammad	20295
+2	User:TedderBot/CurrentPruneBot/census	20289
+4	Wikipedia:WikiProject Deletion sorting/United States of America	20286
+0	List of best-selling music artists	20242
+0	Eminem	20181
+0	Philippines	20176
+0	Chicago	20159
+0	Red Hot Chili Peppers	20028
+0	Deaths in 2014	20005
+0	RuneScape	19982
+2	User:Grahamec/Members	19925
+0	John Cena	19923
+3	User talk:Xeno	19880
+0	Israel	19853
+0	Deaths in December 2016	19848
+3	User talk:Northamerica1000	19845
+4	Wikipedia:Article Collaboration and Improvement Drive	19822
+0	WWE	19729
+5	Wikipedia talk:Citing sources	19717
+0	England national football team	19696
+4	Wikipedia:Administrators' noticeboard/Requests for closure	19694
+4	Wikipedia:Third opinion	19656
+9	MediaWiki talk:Spam-blacklist	19646
+0	Turkey	19618
+100	Portal:Current events/Sidebar	19618
+4	Wikipedia:WikiProject Deletion sorting/Business	19598
+3	User talk:Ryulong	19582
+5	Wikipedia talk:Articles for deletion	19481
+4	Wikipedia:WikiProject Deletion sorting/Actors and filmmakers	19473
+0	Syrian Civil War	19449
+0	London	19447
+4	Wikipedia:Possibly unfree files	19329
+5	Wikipedia talk:Reliable sources	19265
+1	Talk:Israel	19227
+0	Germany	19118
+4	Wikipedia:WikiProject Chemicals/Index	19107
+0	Deaths in 2008	19075
+1	Talk:Adolf Hitler	19020
+0	List of EastEnders characters	19016
+0	September 11 attacks	19009
+4	Wikipedia:No original research/Noticeboard	19006
+3	User talk:Acroterion	19005
+0	Vijay (actor)	19000
+0	WWE Raw	18979
+1	Talk:Atheism	18930
+1	Talk:Abortion	18916
+0	Iran	18844
+0	South Korea	18831
+0	Christianity	18830
+0	Greece	18823
+0	Elvis Presley	18811
+3	User talk:Gerda Arendt	18802
+0	Mariah Carey	18785
+0	List of highest-grossing films	18769
+3	User talk:Fastily	18749
+0	Ronald Reagan	18732
+0	List of current UFC fighters	18726
+2	User:AvicBot/AfCCSD	18665
+0	List of Coronation Street characters	18626
+5	Wikipedia talk:AutoWikiBrowser/Bugs	18616
+1	Talk:Chiropractic	18605
+1	Talk:International recognition of Kosovo	18602
+0	List of programs broadcast by Cartoon Network	18602
+0	Anarchism	18585
+0	Manchester United F.C.	18577
+3	User talk:Kudpung	18531
+4	Wikipedia:WikiProject Football	18510
+1	Talk:Anarchism	18457
+0	Pakistan	18398
+0	Same-sex marriage	18368
+10	Template:X1	18329
+0	Deaths in 2015	18306
+2	User:VeblenBot/C/Good article nominees currently on hold	18285
+3	User talk:Dennis Brown	18275
+4	Wikipedia:Village pump (idea lab)	18250
+5	Wikipedia talk:WikiProject Ships	18233
+3	User talk:Ceoil	18228
+0	Deaths in 2007	18221
+0	Ulysses S. Grant	18209
+5	Wikipedia talk:WikiProject Baseball	18173
+0	Paul McCartney	18156
+4	Wikipedia:VisualEditor/Feedback	18154
+5	Wikipedia talk:WikiProject Formula One	18084
+4	Wikipedia:Categories for discussion/User	18077
+0	Portugal	18071
+0	Joseph Stalin	18048
+4	Wikipedia:WikiProject Deletion sorting/Sportspeople	18021
+3	User talk:William M. Connolley	18003
+4	Wikipedia:WikiProject Military history/Assessment/Requests	17968
+3	User talk:Alison	17929
+0	Christina Aguilera	17883
+2	User:ChzzBot IV/log	17834
+0	Iraq War	17829
+0	Madonna (entertainer)	17806
+828	Module:Syrian Civil War detailed map	17767
+0	Chelsea F.C.	17751
+0	Paris	17669
+1	Talk:Michael Jackson	17656
+5	Wikipedia talk:Sandbox	17588
+3	User talk:Raul654	17555
+0	Japan	17534
+3	User talk:Piotrus	17511
+0	Edge (wrestler)	17462
+1	Talk:World War II	17446
+0	The Holocaust	17406
+0	2008 United States presidential election	17404
+4	Wikipedia:Sockpuppet investigations/SPI/Subpage - Open suspected sockpuppet investigations	17403
+1	Talk:United Kingdom	17379
+0	Celtic F.C.	17372
+3	User talk:ClueBot Commons	17366
+0	Deaths in 2012	17342
+3	User talk:C.Fred	17319
+0	List of programs broadcast by Nickelodeon	17267
+13	Help talk:Citation Style 1	17229
+3	User talk:Orangemike	17220
+0	Hurricane Katrina	17196
+3	User talk:Casliber	17166
+0	List of Major League Baseball career home run leaders	17146
+0	Cristiano Ronaldo	17142
+2	User:GA bot/Stats	17135
+1	Talk:Jehovah's Witnesses	17129
+3	User talk:John	17114
+0	Star Wars	17099
+0	World War I	17088
+0	Big Show	17042
+0	Xbox 360	17020
+0	List of Naruto characters	16988
+10	Template:Did you know/Preparation area 3	16979
+0	Russia	16941
+0	Guns N' Roses	16939
+1	Talk:Thomas Jefferson	16926
+0	Pink Floyd	16925
+3	User talk:Gwen Gale	16896
+0	Thomas Jefferson	16865
+3	User talk:Anna Frodesiak	16852
+4	Wikipedia:Tutorial/Citing sources/sandbox	16830
+0	Triple H	16805
+2	User:Avicennasis/reports/uaa/report	16753
+4	Wikipedia:Requested articles/Social sciences	16740
+5	Wikipedia talk:Tambayan Philippines	16737
+3	User talk:Newyorkbrad	16732
+0	Pope John Paul II	16730
+3	User talk:YellowMonkey	16729
+0	China	16704
+0	Lionel Messi	16641
+0	Scotland	16639
+5	Wikipedia talk:WikiProject Opera	16610
+0	2016 United States presidential election	16595
+0	Albert Einstein	16589
+3	User talk:Favonian	16568
+3	User talk:ImageRemovalBot/log	16543
+0	Kelly Clarkson	16484
+3	User talk:Sitush	16464
+4	Wikipedia:WikiProject Deletion sorting/Academics and educators	16462
+0	Italy	16460
+0	Brazil	16458
+1	Talk:Syrian Civil War	16440
+0	Deaths in 2011	16438
+0	Vietnam War	16414
+1	Talk:British Isles	16413
+5	Wikipedia talk:AutoWikiBrowser	16412
+2	User:SQL/Blanked	16390
+2	User:Wilhelmina Will/Sandbox	16378
+3	User talk:Durova	16367
+5	Wikipedia talk:WikiProject U.S. Roads	16364
+1	Talk:List of scientists who disagree with the scientific consensus on global warming	16364
+4	Wikipedia:Version 1.0 Editorial Team/Rugby league articles by quality log	16355
+3	User talk:Cirt	16355
+0	Blackout (Britney Spears album)	16343
+4	Wikipedia:Requested articles/Sports	16335
+0	Harry Potter	16330
+2	User:Orser67/sandbox	16325
+3	User talk:Malik Shabazz	16317
+5	Wikipedia talk:WikiProject Albums	16310
+0	Bill Clinton	16285
+5	Wikipedia talk:WikiProject Military history/Coordinators	16254
+0	Dwayne Johnson	16226
+4	Wikipedia:Categories for discussion	16205
+1	Talk:Cold fusion	16204
+3	User talk:Gogo Dodo	16198
+5	Wikipedia talk:WikiProject LGBT studies	16179
+0	United States men's national soccer team	16158
+0	West Ham United F.C.	16140
+0	Hillary Clinton	16106
+0	Blink-182	16092
+0	List of most-viewed YouTube videos	16060
+0	Cannabis (drug)	16057
+0	Abraham Lincoln	16045
+0	Britney Spears discography	16034
+4	Wikipedia:WikiProject Deletion sorting/Organizations	16030
+0	Ireland	15966
+0	Bitcoin	15926
+0	Fascism	15923
+3	User talk:Wehwalt	15913
+3	User talk:Future Perfect at Sunrise	15887
+2	User:Acad Ronin/sandbox	15875
+0	Australia	15865
+2	User:X!/Tally	15837
+3	User talk:AnmaFinotera	15817
+5	Wikipedia talk:AutoWikiBrowser/CheckPage	15815
+0	Rey Mysterio	15762
+0	Super Smash Bros. Brawl	15759
+3	User talk:BrownHairedGirl	15735
+0	Albania	15721
+0	Rihanna	15680
+0	Hyderabad	15659
+0	Bob Dylan	15658
+0	Diana, Princess of Wales	15645
+0	Lost (TV series)	15600
+0	Avatar: The Last Airbender	15578
+0	Scientology	15545
+0	Buddhism	15525
+4	Wikipedia:WikiProject Pharmacology/Index	15524
+3	User talk:Ritchie333	15516
+2	User:Djln/sandbox	15486
+4	Wikipedia:Requested articles/music	15484
+2	User:Cyberbot I/AfD report	15461
+0	Kurt Angle	15445
+0	Lebanon	15437
+0	Gaza War (2008–09)	15427
+5	Wikipedia talk:WikiProject Aircraft	15396
+3	User talk:Courcelles	15383
+0	AC/DC	15377
+10	Template:Did you know/Preparation area 4	15350
+0	Serbia	15335
+4	Wikipedia:WikiProject Deletion sorting/Authors	15328
+0	Bangladesh	15322
+0	Lonnie Mack	15306
+0	Romania	15253
+0	Netherlands	15231
+0	Metallica	15224
+0	Serena Williams	15219
+0	Hinduism	15207
+0	Portsmouth F.C.	15204
+3	User talk:JohnCD	15198
+0	Dominican Republic	15184
+3	User talk:Dbachmann	15163
+0	Democracy	15162
+0	Andy Murray	15153
+1	Talk:Libertarianism	15118
+0	Heavy metal music	15078
+0	Firefox	15077
+3	User talk:Tony1	15067
+0	Ottoman Empire	15057
+1	Talk:United States and state terrorism	15045
+0	Capitalism	15034
+5	Wikipedia talk:Disambiguation	15013
+0	Joseph Smith	14954
+0	LeBron James	14952
+4	Wikipedia:Requested articles/Applied arts and sciences	14948
+4	Wikipedia:WikiProject Deletion sorting/Television	14892
+0	John Kerry	14892
+0	Sarah Palin	14881
+0	Sonic the Hedgehog (character)	14832
+0	Evolution	14820
+0	Lady Gaga	14816
+2	User:Stephencdickson/sandbox	14813
+5	Wikipedia talk:Neutral point of view	14801
+5	Wikipedia talk:Notability (fiction)	14797
+0	Club América	14780
+0	San Francisco	14774
+4	Wikipedia:WikiProject Medicine/Discussions	14743
+4	Wikipedia:WikiProject Football/New articles	14743
+0	Brazil national football team	14722
+0	France	14716
+0	Hilary Duff	14714
+3	User talk:Jim1138	14689
+0	Spanish language	14681
+0	List of Family Guy characters	14655
+0	Liverpool F.C.	14648
+0	Spain	14647
+0	America's Next Top Model	14627
+1	Talk:Transcendental Meditation	14617
+1	Talk:Mass killings under communist regimes	14612
+0	Cyril Northam	14610
+3	User talk:Tony Sidaway	14605
+0	Mexico	14597
+0	John F. Kennedy	14593
+2	User:Jamesyons/sandbox	14582
+0	Chris Jericho	14570
+0	Goku	14566
+0	Rangers F.C.	14564
+0	2007	14560
+0	Carrie Underwood	14559
+0	Organization XIII	14545
+0	Heroes (U.S. TV series)	14542
+0	Jordan	14530
+2	User:SQL/ActiveAdmins	14503
+0	Colombia	14486
+0	U2	14483
+0	Mexico national football team	14471
+0	List of the oldest living people	14444
+0	Grand Theft Auto IV	14435
+0	John Lennon	14405
+0	Neighbours	14392
+0	The X Factor (UK TV series)	14370
+0	SpongeBob SquarePants	14351
+0	Intelligent design	14330
+0	Fidel Castro	14313
+4	Wikipedia:WikiProject Deletion sorting/Albums and songs	14309
+0	PAOK FC	14306
+0	24 (TV series)	14288
+0	Home and Away	14284
+0	List of Doctor Who episodes (2005–present)	14278
+5	Wikipedia talk:WikiProject Plants	14269
+0	The Church of Jesus Christ of Latter-day Saints	14249
+0	England	14244
+0	Ethiopia	14243
+0	Shah Rukh Khan	14242
+0	The Rolling Stones	14240
+3	User talk:Binksternet	14231
+4	Wikipedia:Village pump (assistance)	14228
+0	Norway	14225
+1	Talk:Russo-Georgian War	14219
+0	Vladimir Putin	14202
+0	Queen (band)	14197
+0	Atheism	14182
+0	Darth Vader	14167
+0	Kerala	14164
+0	Harry Potter and the Deathly Hallows	14158
+0	Girls' Generation	14145
+3	User talk:JzG	14124
+0	Cat	14118
+0	WWE SmackDown	14102
+5	Wikipedia talk:WikiProject National Register of Historic Places	14099
+0	Denmark	14097
+0	Deaths in 2006	14077
+0	Puerto Rico	14066
+0	Freddie Mercury	14061
+1	Talk:List of best-selling music artists	14051
+0	Pope Benedict XVI	14040
+0	Venezuela	14037
+0	Osama bin Laden	14037
+2	User:Dragons flight/RFA summary	14034
+0	Islamic State of Iraq and the Levant	14034
+3	User talk:Magioladitis	14032
+4	Wikipedia:WikiProject India/Quiz	13999
+0	Zinedine Zidane	13997
+0	The Dark Knight (film)	13992
+2	User:Jimbo Wales	13987
+1	Talk:Israel and the apartheid analogy	13987
+2	User:AnomieBOT/EDITREQTable	13973
+0	List of SpongeBob SquarePants characters	13972
+0	Impact Wrestling	13969
+0	Cartoon Network	13962
+3	User talk:Jytdog	13958
+1	Talk:Christianity	13955
+0	Socialism	13950
+0	Batman	13948
+0	Singapore	13941
+0	Akatsuki (Naruto)	13931
+0	Rihanna discography	13916
+3	User talk:Flyer22 Reborn	13899
+0	Beyoncé discography	13898
+0	Friends	13877
+0	Argentina	13859
+5	Wikipedia talk:WikiProject College football	13851
+0	List of ethnic slurs	13844
+4	Wikipedia:WikiProject Deletion sorting/Film	13843
+0	Spain national football team	13839
+0	Green Day	13829
+0	Korn	13824
+5	Wikipedia talk:Arbitration/Requests	13822
+0	Detroit	13799
+0	PlayStation Portable	13794
+4	Wikipedia:Good article nominations/Topic lists/History	13789
+4	Wikipedia:Requested articles/music/Performers, bands and songwriters	13782
+0	The Suite Life of Zack & Cody	13768
+0	Lindsay Lohan	13766
+3	User talk:J.delanoy	13752
+0	Hong Kong	13728
+0	2008	13727
+9	MediaWiki talk:Spam-whitelist	13724
+2	User:ST47/AfD	13712
+0	Naruto Uzumaki	13696
+0	Hugo Chávez	13688
+0	Sunderland A.F.C.	13687
+0	IPod	13677
+0	List of films considered the worst	13669
+0	Malaysia Airlines Flight 370	13653
+0	Warriors (novel series)	13638
+0	Windows Vista	13616
+5	Wikipedia talk:Featured picture candidates	13616
+0	Veganism	13606
+0	List of best-selling video games	13582
+1	Talk:Electronic cigarette	13581
+2	User:DeltaQuad/UTRS Appeals	13576
+0	2006 FIFA World Cup	13570
+0	Iron Maiden	13563
+2	User:AnomieBOT/OrphanReferenceFixer log	13562
+3	User talk:I dream of horses	13556
+4	Wikipedia:Bots/Requests for approval	13519
+4	Wikipedia:Recent additions	13517
+0	Maria Sharapova	13489
+0	South Park	13488
+2	User:HasteurBot/NRISref	13461
+0	The Simpsons	13458
+3	User talk:The ed17	13452
+3	User talk:MBisanz	13451
+4	Wikipedia:WikiProject Deletion sorting/Businesspeople	13439
+0	Houston	13439
+0	Circumcision	13428
+0	CM Punk	13426
+0	Premier League	13422
+5	Wikipedia talk:WikiProject Elements	13418
+0	Bill Gates	13417
+0	North Korea	13388
+0	Heathrow Airport	13386
+0	Finland	13384
+3	User talk:Beyond My Ken	13375
+0	Rafael Nadal	13370
+0	Jimi Hendrix	13366
+1	Talk:Neuro-linguistic programming	13359
+0	Russo-Georgian War	13350
+0	Dubai	13347
+5	Wikipedia talk:Twinkle	13320
+0	Everton F.C.	13314
+0	Spice Girls	13306
+5	Wikipedia talk:WikiProject Physics	13303
+3	User talk:Montanabw	13296
+0	Pink (singer)	13294
+2	User:VeblenBot/C/Requests for peer review	13281
+0	Marilyn Monroe	13278
+0	Virginia Tech shooting	13265
+0	Jennifer Lopez	13265
+0	Middle Ages	13259
+4	Wikipedia:WikiProject Deletion sorting/Software	13247
+0	Los Angeles	13216
+0	RMS Titanic	13211
+0	Assassination of John F. Kennedy	13200
+0	Linux	13199
+2	User:Jsmith006/Sandbox	13198
+0	System of a Down	13195
+0	Radiohead	13186
+3	User talk:Ronhjones	13168
+0	Iran national football team	13149
+0	Toronto	13148
+0	50 Cent	13136
+0	Novak Djokovic	13134
+0	War in Afghanistan (2001–present)	13130
+2	User:Gilo1969/CSD log	13128
+0	War of 1812	13115
+10	Template:2009-2010 flu pandemic table	13112
+0	Elizabeth II	13109
+0	S.L. Benfica	13099
+0	List of current champions in WWE	13090
+0	Sydney	13086
+1	Talk:Canada	13080
+0	Cher	13080
+0	Texas	13079
+0	9/11 conspiracy theories	13065
+5	Wikipedia talk:WikiProject Women in Red	13060
+0	Cyprus	13040
+4	Wikipedia:WikiProject Deletion sorting/Lists	13037
+0	David Bowie	13019
+3	User talk:Juliancolton	13008
+10	Template:Template sandbox	12997
+0	Randy Orton	12988
+0	Libertarianism	12973
+0	New Zealand	12958
+0	Republican Party (United States)	12940
+0	The Miz	12935
+0	C.D. Guadalajara	12934
+0	Nintendo	12933
+0	William Shakespeare	12925
+4	Wikipedia:WikiProject Cricket/Quiz	12910
+0	John F. Kennedy International Airport	12908
+0	Linkin Park	12907
+0	Nicole Scherzinger	12906
+3	User talk:Martinevans123	12902
+0	Afghanistan	12897
+0	Aston Villa F.C.	12894
+0	Olympiacos F.C.	12889
+4	Wikipedia:Good article nominations/Topic lists/Natural sciences	12885
+0	List of WWE pay-per-view events	12883
+0	Sasuke Uchiha	12876
+0	Hulk Hogan	12875
+0	Shakira	12867
+3	User talk:Cyberpower678	12862
+0	Indonesia	12857
+0	Nirvana (band)	12847
+0	Chicago Cubs	12839
+1	Talk:Hillary Clinton	12835
+0	Walmart	12832
+0	Homosexuality	12831
+4	Wikipedia:Manual of Style	12828
+0	Arsenal F.C.	12828
+0	Star Trek	12822
+4	Wikipedia:Requests for checkuser	12819
+0	Sweden	12814
+0	Aishwarya Rai	12814
+3	User talk:Chzz	12812
+0	Airbus A380	12801
+0	Gulf War	12796
+2	User:Liz/CSD log	12789
+0	Los Angeles International Airport	12786
+3	User talk:AGK	12774
+0	Cuba	12767
+4	Wikipedia:Featured articles	12743
+0	Tottenham Hotspur F.C.	12740
+0	Miley Cyrus	12733
+2	User:Hchc2009/Sandbox	12730
+0	Abortion	12713
+2	User:Tigerboy1966/sandbox9	12710
+0	Paris Hilton	12701
+0	Nazi Germany	12655
+0	Haiti	12655
+0	Superman	12652
+11	Template talk:Convert	12641
+0	Saddam Hussein	12637
+1	Talk:Murder of Meredith Kercher	12631
+0	Janet Jackson	12631
+0	Punk rock	12628
+0	Tupac Shakur	12619
+0	Kobe Bryant	12617
+5	Wikipedia talk:Sandbox/Archive	12615
+0	Stone Cold Steve Austin	12602
+0	Vincent van Gogh	12594
+1	Talk:Wikipedia	12591
+0	Tony Blair	12583
+0	Hungary	12583
+4	Wikipedia:Requested articles/Biography/By profession	12576
+4	Wikipedia:WikiProject Deletion sorting/Australia	12574
+0	Kosovo	12568
+0	The Lord of the Rings	12565
+0	2004 Indian Ocean earthquake and tsunami	12559
+0	International Space Station	12558
+3	User talk:J Milburn	12547
+0	Mahatma Gandhi	12547
+0	Ukraine	12545
+0	Homer Simpson	12545
+0	Rajinikanth	12542
+0	Halloween	12538
+0	Race and intelligence	12536
+5	Wikipedia talk:Canadian Wikipedians' notice board	12533
+0	WWE Championship	12532
+0	FC Bayern Munich	12530
+0	Earth	12528
+0	Apple Inc.	12526
+0	Racism	12523
+3	User talk:Nikkimaria	12522
+3	User talk:Keeper76	12499
+0	AEK Athens F.C.	12493
+0	Karl Marx	12464
+1	Talk:Kosovo	12460
+0	Bulgaria	12459
+0	Bosnia and Herzegovina national football team	12454
+0	Democratic Party (United States)	12448
+2	User:Mdnavman/sandbox	12434
+0	Halo 3	12431
+1	Talk:Genesis creation narrative	12425
+3	User talk:NuclearWarfare	12390
+3	User talk:Bgwhite	12372
+0	American Revolutionary War	12368
+4	Wikipedia:List of Wikipedians by number of DYKs	12365
+1	Talk:Acupuncture	12362
+0	Somalia	12358
+0	Johnny Cash	12353
+2	User:ST47/test	12351
+0	Margaret Thatcher	12349
+0	1992	12345
+0	Futurama	12330
+0	Mike Tyson	12322
+0	English language	12308
+0	Ann Coulter	12308
+0	Drake & Josh	12306
+0	Vegetarianism	12292
+0	Facebook	12285
+2	User:Legobot/Wikidata/General	12257
+3	User talk:Nyttend	12249
+0	Ashley Tisdale	12248
+3	User talk:SlimVirgin	12219
+0	Michael Jordan	12214
+0	Taiwan	12208
+1	Talk:Monty Hall problem	12202
+0	List of social networking websites	12202
+3	User talk:Lar	12193
+2	User:VeblenBot/C/Current peer reviews	12182
+0	Boston	12179
+4	Wikipedia:Good article nominations/Topic lists/Music	12165
+0	Chennai	12157
+0	Spider-Man	12152
+1	Talk:George Washington	12145
+0	American Civil War	12134
+0	Nottingham Forest F.C.	12131
+0	Korean War	12130
+0	Berlin	12125
+0	List of Hollyoaks characters	12123
+0	Andhra Pradesh	12111
+0	Winx Club	12108
+0	Jeff Hardy	12099
+4	Wikipedia:WikiProject Deletion sorting/Music	12090
+0	Nickelodeon	12080
+0	Sigmund Freud	12077
+0	IOS version history	12071
+0	Poland	12068
+3	User talk:Toddst1	12067
+0	Shawn Michaels	12067
+2	User:Rankersbo/CSD log	12062
+5	Wikipedia talk:WikiProject Television	12060
+0	The Fairly OddParents	12048
+0	Athens	12048
+0	1993	12041
+0	List of Disney Channel series	12039
+0	Istanbul	12034
+0	Panathinaikos F.C.	12032
+0	Genghis Khan	12032
+1	Talk:Ulysses S. Grant	12017
+0	IPhone	12015
+0	Mumbai	12007
+0	List of Mario franchise characters	11993
+0	Chile	11993
+0	X-Men (film series)	11974
+0	Wizards of Waverly Place	11973
+0	2006	11968
+0	Saudi Arabia	11952
+0	Same-sex marriage in the United States	11948
+0	Megadeth	11940
+0	Myanmar	11906
+0	Theodore Roosevelt	11902
+0	Kanye West	11886
+0	Persepolis F.C.	11884
+0	Thierry Henry	11881
+0	Native Americans in the United States	11881
+2	User:Mccapra/sandbox	11876
+1	Talk:Islamic State of Iraq and the Levant	11869
+0	The Legend of Zelda	11866
+0	Christ myth theory	11865
+0	Shadow the Hedgehog	11862
+0	Jerusalem	11861
+3	User talk:Arthur Rubin	11858
+5	Wikipedia talk:WikiProject Japan	11857
+0	George Harrison	11852
+0	Fox News	11850
+0	List of Family Guy episodes	11849
+0	Switzerland	11847
+0	Avril Lavigne	11842
+0	War on Terror	11835
+3	User talk:Mark Arsten	11835
+4	Wikipedia:New articles (Aircraft)	11821
+2	User:AnomieBOT/TPERTable	11821
+0	British National Party	11819
+0	Google	11802
+0	Attention deficit hyperactivity disorder	11801
+0	Oasis (band)	11789
+0	Ayn Rand	11778
+0	Korea	11776
+0	Muse (band)	11775
+0	Che Guevara	11768
+1	Talk:Russian interference in the 2016 United States elections	11758
+0	Matt Hardy	11757
+0	Winston Churchill	11745
+1	Talk:Armenian Genocide	11744
+0	Electronic cigarette	11738
+0	God	11725
+0	Whitney Houston	11719
+0	Malaysia	11719
+3	User talk:RickK	11704
+0	Naruto	11695
+0	Jesse McCartney	11683
+0	Panathinaikos B.C.	11673
+0	Human	11669
+1	Talk:The Holocaust	11668
+3	User talk:SMcCandlish	11660
+0	Iraq	11660
+4	Wikipedia:Good article nominations/Topic lists/Social sciences and society	11655
+0	Grey's Anatomy	11644
+0	White people	11643
+0	Nintendo DS	11637
+2	User:SQL/RfX Report	11636
+0	Germany national football team	11636
+0	Grand Theft Auto	11624
+0	Arabs	11619
+0	2009	11619
+0	Globalization	11616
+3	User talk:Rlevse	11612
+0	Coldplay	11606
+0	War	11603
+0	Mao Zedong	11603
+0	Homeopathy	11586
+0	List of The Simpsons episodes	11581
+0	Golf	11576
+0	Big Brother (franchise)	11576
+0	Dog	11573
+0	Spider-Man 3	11570
+4	Wikipedia:WikiProject Council/Proposals	11564
+0	Slipknot (band)	11564
+5	Wikipedia talk:Notability (people)	11548
+4	Wikipedia:WikiProject Deletion sorting/Schools	11545
+0	Kurt Cobain	11544
+0	List of original programs distributed by Netflix	11543
+0	Titanic (1997 film)	11539
